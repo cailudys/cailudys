@@ -33,7 +33,6 @@ const calculateYMDInterval = (recentDate, oldDate) => {
     let yearInterval = recentDateYears - oldDateYears
     let monthInrerval = recentDateMonth - oldDateMonth 
     let dayInterval =  recentDateDay - oldDateDay
-
     if ( dayInterval < 0 ) {
         // 如果天数小于0，则借一个月，用上个月的天数加上这个负值即可
         // new Date()第3个参数默认为1，就是每个月的1号，把它设置为0时， new Date()会返回上一个月的最后一天，然后通过getDate()方法得到天数
@@ -49,7 +48,5 @@ const calculateYMDInterval = (recentDate, oldDate) => {
         monthInrerval = 12 + monthInrerval
         yearInterval = yearInterval -1
     }
-
-
     return `${yearInterval}年${monthInrerval}月${dayInterval}日`
 } 
