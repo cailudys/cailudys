@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2022-06-03T09:16:02.565Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="QrNDJNOjfTZqxUvFUS-v" version="18.2.1" type="github"><diagram id="3fy6NsMSflnJY4ityJ6Z" name="Page-1">7VrbUtswEP0aPZKxfIv9aCemfWg7MHRaeOq4sbDdOlFQlFu/vitZji8JJBRs4g4zzCCtdd09e3ZXgIzRdPOBhfPkM41IhnQt2iBjjHQdm7qOxI8WbXPJ0FaCmKWRGlQKbtI/RAk1JV2mEVnUBnJKM57O68IJnc3IhNdkIWN0XR92T7P6rvMwJnuCm0mY7Uu/pxFPcqmjD0v5R5LGSbEztt38yzQsBqubLJIwouuKyAiQMWKU8rw13YxIJpRX6CWfd/nI193BGJnxkyZcm1+8xb12/ePb6sqe6Nn1V+vCUmfj2+LCJIL7qy5lPKExnYVZUEp9RpeziIhVNeiVYz5ROgchBuEvwvlWGTNccgqihE8z9ZVsUn5bad+JpQaW6o03amXZ2RadGWfb22qnMkt0y2myV8zL7ycu9ajaCliFLCb8CV2ZO6MB2gmdEtgH5jGShTxd1dcPFezi3bjd1Cuaws66plxkhw/lIK5WX2FBl2xC1KTSvNConKIUSaM/AwB2XwBwuiFzjXVuSNOuGxJrDUvmAGvNkma+2yrMluoKSLczUI1/T+U5SxvbD0vBOv6KMJ4C112EWRrPkOGJPWYJYSmXGi/GQStWv98XPLsFAxd5GPkuCobI9ZEXoMBGjotcAwUWckbIsYpNAVj5vvWzdCpu0E2dTNZJysnNPJT+u4aUok4cCuKgIbJ5mgb23bvg22HdTYvuuozuuKDkpBLZbe1xQqi58nP91u0LA7cfgo8y9/DEUO28kOFfZNBhD4n4QVKFi5yxYBEPWOQSBQ7yQWgKOvE9BInJv9JJE99ZBuk76cTdm1HZPtHdnbbc3ekhOm4PxRgAi4E8R0j8MfL1nsUB26oDwzkRGGZbwMB4TycdBoKS/O+q3H8kEAxMfcf+Yh4eaHh4JBzI3hVgDdRGmBJG4SKR1yit+yoBo3hG6Ka48xgLt5UBc5HrL56o/cw6BnWtUcI3xhvFCQ6Ph0Z+gletK7DRQ1zWUXkEke2C79ULTdwsNI3TCs220dk8Vzfo1HoYT98XfF/wLBYMTJm7Xcq0zoRsbk1+QtL1WxYBY1EQHCgLQAKVgS0zQA15sizw4aslP8n2GT03/MdPGdhpEO6pxU1rbxlYP8DGZ1T9vX35h/v4TIsH8knRE/4ODXckeUC6f04RboCcvnlPI7sxtTd3HquH0NAlNFxNhAsRB3zxVHTwRRokji0HByJ69Assu79Hnw9a7B6ixRjI56IRcm2ZLAAY3Mrzoinw4xky1wBqwS8ESfuwMJyzg8Wh1+fO9WJZ3ekFuuU/UeRlZfmvKEbwFw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-03T09:40:44.878Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="o1vMNyF4adr1rRd5DFQ0" version="18.2.1" type="github">
+  <diagram id="3fy6NsMSflnJY4ityJ6Z" name="Page-1">
+    <mxGraphModel dx="1346" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1Q4NAsf0Q_VvP6c2lQT5-14" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;1.技术选型&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="71" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1Q4NAsf0Q_VvP6c2lQT5-15" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;2.搭建项目框架&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="286" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1Q4NAsf0Q_VvP6c2lQT5-16" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;3.编写源代码&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="551" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1Q4NAsf0Q_VvP6c2lQT5-17" value="4.项目上线" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1021" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Yxn0PK8yJ3KyifSdcUVZ-1" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;1.选择前端框架&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;2.选择构建工具&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="71" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Yxn0PK8yJ3KyifSdcUVZ-2" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. 配置框架的配置文件&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2.配置构建工具的配置文件（eslint）&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="241" y="450" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Yxn0PK8yJ3KyifSdcUVZ-3" value="5.前后端联调" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="801" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Yxn0PK8yJ3KyifSdcUVZ-5" value="1.nginx 配置&amp;nbsp;&lt;br&gt;2. docker 使用&amp;nbsp; （多环境部署）&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3. shell脚本编写 （自动化脚本）&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;4.linux 系统使用&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1021" y="440" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Yxn0PK8yJ3KyifSdcUVZ-6" value="1. 看得懂数据库&lt;br&gt;2.会使用postman等接口工具&lt;br&gt;3.JavaScript高级&lt;br&gt;4. TypeScript高级&lt;br&gt;5. css预处理语言 （sacc less等）" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="511" y="450" width="210" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Yxn0PK8yJ3KyifSdcUVZ-7" value="1. 了解 http 请求" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="761" y="450" width="210" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
